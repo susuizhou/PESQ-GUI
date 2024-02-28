@@ -1,0 +1,9 @@
+pyinstaller --onefile --windowed pesq_src.py
+pyinstaller --onefile --windowed pesq_tk.py
+生成的exe的路径
+dist\pesq_src.exe
+
+
+
+
+
