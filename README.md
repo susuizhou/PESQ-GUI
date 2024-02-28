@@ -21,6 +21,8 @@ PESQ的评分标准如下：
 
 
 
-生产exe
+生成exe
+
+pyinstaller --onefile --windowed pesq_src.py   支持文件拖入
 
 pyinstaller --onefile --windowed pesq_tk.py
